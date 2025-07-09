@@ -9,7 +9,7 @@ Outside of work, I'm interested in following the progression of science and tech
 - ⚡ Fun fact: I write books. I'm currently learning Python and Javascript.
 - ✨ Inspiration: Money 💰, [**Gazi Jarin**](https://github.com/gazijarin)
 #### Let's connect!
-[<img alt="Tiktok" src="https://img.shields.io/badge/Tiktok-%23000000.svg?&style=for-the-badge&logo=Tiktok&logoColor=blue%22" />]("https://www.tiktok.com/@nexora.001" )
+[<img alt="Tiktok" src="https://img.shields.io/badge/Tiktok-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://www.tiktok.com/@nexora.001)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />]( )
 
 <!--
